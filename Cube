@@ -1,0 +1,3 @@
+git удаленное добавление источника https://github.com/Dani7yg/Friez-.git
+ git branch -M main 
+git push -u origin main
